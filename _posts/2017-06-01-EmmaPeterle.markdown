@@ -3,7 +3,7 @@ layout: post
 title:  "Maddalena Peterle"
 date:   2009-11-31 09:11:03
 description: Trisnonna Maddalena Petterle
-thumbnail: emmapeterle.jpg
+thumbnail: maddalena.jpg
 categories: biografie
 
 # Information for the author block

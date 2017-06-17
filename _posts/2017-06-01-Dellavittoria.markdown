@@ -3,7 +3,7 @@ layout: post
 title:  "Dellavittoria Tandura"
 date:   2017-06-01 09:11:04
 description: Trisnonna Maddalena Petterle
-thumbnail: emmapeterle.jpg
+thumbnail: dellavittoria.jpg
 categories: biografie
 
 # Information for the author block
