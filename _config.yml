@@ -1,6 +1,6 @@
 full_rebuild: true
-name: Gridster
-description: the material experience for jekyll
+name: I Tandura
+description: collezione materiale
 destination: jekyllbuild
 url: #place url
 baseurl: #place folder name if site is served in subfolder
@@ -14,7 +14,7 @@ category_dir: /category
 author_dir: /author
 author_title_prefix: 'Posted by '
 media_folder: /media/compressed
-author_default_avatar: /profile-pic.jpg
+author_default_avatar: /img/aavv-logo.jpg
 tumblr: "#"
 pinterest: "#"
 instagram: "#"
