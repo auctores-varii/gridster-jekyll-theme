@@ -10,15 +10,16 @@
 #   email: someone@something.com //--> optional
 
 -
-  id: someone
-  name: Some Person
+  id: aavv
+  name: Auctores Varii
   avatar: /profile-pic.jpg
-  bio: this is some more information about the author.
-  facebook: https://www.facebook.com/someone
-  twitter: https://twitter.com/someone
+  bio: Auctores Varii
+  #facebook: https://www.facebook.com/someone
+  twitter: https://twitter.com/aavv
   instagram: http://instagram.com/someone
-  email: someone@something.com
+  email: comm@aavv.io
 -
-  id: person
+  id: Alessandro Valenti
   avatar: /profile-pic.jpg
-  bio: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id, quidem.
+  bio: Alessandro Valenti Biografia.
+  email: comm@aavv.io
